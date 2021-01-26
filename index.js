@@ -30,6 +30,7 @@ const exchangeContract = new web3.eth.Contract(EXCHANGE_ABI, EXCHANGE_ADDRESS);
 const ETH_AMOUNT = web3.utils.toWei('1', 'Ether')
 console.log("Eth Amount", ETH_AMOUNT)
 
+// If eth drops before 200 sell
 const ETH_SELL_PRICE = web3.utils.toWei('200', 'Ether') // 200 Dai a.k.a. $200 USD
 
 async function sellEth(ethAmount, daiAmount) {
