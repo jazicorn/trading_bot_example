@@ -1,4 +1,4 @@
-# trading_bot_tutorial
+# trading_bot_example
 
 How Bot Works
 - Checks Ethereum Price
