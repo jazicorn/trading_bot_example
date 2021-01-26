@@ -1,8 +1,5 @@
 # trading_bot_example
 
-I'm following along with this tutorial:
-https://www.youtube.com/watch?v=CgXQC4dbGUE&ab_channel=DappUniversity
-
 How Bot Works
 - Checks Ethereum Price
 - Stop Loss
